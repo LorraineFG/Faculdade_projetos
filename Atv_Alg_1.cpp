@@ -1,3 +1,9 @@
+//1. Leia os enunciados a seguir e crie os algoritmos e os programas em C++ que solucionem os problemas propostos.
+
+//a) Um instituto está realizando uma pesquisa para descobrir a idade e o peso médios da população de um bairro. 
+//Cada entrevistado informa seu peso e sua idade e, quando for informado 0 para o peso, o recebimento de dados 
+//deve ser interrompido e devem ser exibidas a quantidade de entrevistados, a média de peso e a média de idade dos mesmos.
+
 #include <iostream>
 using namespace std;
 
